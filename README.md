@@ -4,9 +4,9 @@ Proyecto realizado para fines de aprendizaje de las distintas librerías con la 
 
 ## Instalación
 
+Después de descargar y entrar a la carpeta del proyecto, ejecutar los siguientes comandos:
+
 ```
-git clone https://github.com/don-chalo/administrador-pacientes.git
-cd administrador-pacientes
 npm i
 npm run dev
 ```
